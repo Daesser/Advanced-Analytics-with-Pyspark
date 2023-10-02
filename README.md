@@ -11,7 +11,7 @@ This repo is maintained with the intention of being a collection for templates f
 
 ```
 /
-├── ch02-intro       : Introduction to PySpark
+├── ch02-linkage     : Introduction to PySpark
 ├── ch03-recommender : Recommender system
 ├── ch04-rdf         : Predictor system
 ├── ch05-kmeans      : Anomaly detector system
